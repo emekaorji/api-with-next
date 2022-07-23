@@ -1,0 +1,477 @@
+[
+	{
+		"id": 1,
+		"name": "Apple",
+		"photoUrl": "https://healthiersteps.com/wp-content/uploads/2021/12/green-apple-benefits.jpeg",
+		"rating": "69.9%",
+		"commonArea": "China",
+		"averageWeight": 0.15,
+		"averageWeightUnit": "kg",
+		"texture": "Crisp/Snappy",
+		"taste": "Juicy, Sweet",
+		"averageSize": {
+			"horizontal": 2.95,
+			"vertical": 3
+		},
+		"averageSizeUnit": "in",
+		"type": "Pome",
+		"commonColor": "Red",
+		"varieties": [
+			{
+				"name": "Rhode Island Greening Apple",
+				"color": {
+					"name": "Green",
+					"hex": ["#ADDB1E"],
+					"rgb": ["rgb(173, 219, 30)"]
+				},
+				"features": "Round/Oblong, they are of variable size, but tend to be large",
+				"photoUrl": "https://healthiersteps.com/wp-content/uploads/2021/12/green-apple-benefits.jpeg"
+			},
+			{
+				"name": "Winesap Apple",
+				"color": {
+					"name": "Wine",
+					"hex": ["#C63145"],
+					"rgb": ["rgb(198, 49, 69)"]
+				},
+				"features": "Cherry-red color with a rather tough skin, and it has a firm, juicy, light yellow flesh with a wine-like sweet-tart flavor",
+				"photoUrl": "https://2.bp.blogspot.com/_DjaPr2zU2_c/SuNca0ENR2I/AAAAAAAAAc0/NqiNzpnIPqA/w1200-h630-p-k-no-nu/Winesap.jpg"
+			},
+			{
+				"name": "Grimes Golden Apple",
+				"color": {
+					"name": "Yellowish-green",
+					"hex": ["#FCE025", "#FC9E20"],
+					"rgb": ["rgb(252, 224, 37)", "rgb(252, 158, 32)"]
+				},
+				"features": "The skin is smooth, matte, and is a deep yellow-green speckled with faint white lenticels, or spots, and light ribbing",
+				"photoUrl": "https://media.istockphoto.com/photos/yellow-apples-picture-id515791338?k=20&m=515791338&s=612x612&w=0&h=XzbnHZmfXMn17nfLnCYPuTsDP9asjk59CtRfZIjtzj0="
+			},
+			{
+				"name": "Red Delicious Apple",
+				"color": {
+					"name": "Deep wine",
+					"hex": ["#4A0117"],
+					"rgb": ["rgb(74, 1, 23)"]
+				},
+				"features": "Red Delicious is a medium-sized apple, with a tall conical shape",
+				"photoUrl": "https://biosuedtirol.com/uploads/apples_sort/biosuedtirol_red-delicious_detail.jpg"
+			}
+		],
+		"foodClass": {
+			"main": "Vitamins",
+			"others": ["Carbohydrates"]
+		},
+		"nutrition": [
+			"52 Calories",
+			"86% Water",
+			"0.3 grams Protein",
+			"13.8 grams Carbs",
+			"10.4 grams Sugar",
+			"2.4 grams Fiber",
+			"0.2 grams Fat",
+			"Vitamin C",
+			"Potassium"
+		],
+		"benefits": [
+			"Reduced risk of colon cancer",
+			"Help in cholesterol control",
+			"Improve the heart condition",
+			"Improves and protects the brain from damage"
+		],
+		"scientificClass": {
+			"kingdom": "Plantae",
+			"division": "Magnoliophyta",
+			"class": "Magnoliopsida",
+			"subclass": null,
+			"order": "Rosales",
+			"family": "Rosaceae",
+			"subfamily": "Maloideae",
+			"genus": "Malus",
+			"species": "Domestica"
+		},
+		"botanicalName": "Malus domestica",
+		"personalComments": "Apples are just wonderful creations",
+		"funFact": "Apples will ripen six to ten times faster at room temperature than if they were refrigerated"
+	},
+	{
+		"id": 2,
+		"name": "Orange",
+		"photoUrl": "https://healthjade.com/wp-content/uploads/2017/10/orange-fruit.jpg",
+		"rating": "67.9%",
+		"commonArea": "Brazil",
+		"averageWeight": 0.13,
+		"averageWeightUnit": "kg",
+		"texture": "Tough Smooth Waxy Skin/Succulent Interior",
+		"taste": "Juicy, Sweet",
+		"averageSize": {
+			"horizontal": 3.19,
+			"vertical": 2.84
+		},
+		"averageSizeUnit": "in",
+		"type": "Citrus",
+		"commonColor": "Orange",
+		"varieties": [
+			{
+				"name": "Blood Oranges",
+				"color": {
+					"name": "Deep reddish-orange",
+					"hex": ["#B40305", "#C81110"],
+					"rgb": ["rgb(180, 3, 5)", "rgb(200, 17, 16)"]
+				},
+				"features": "Winter Oranges",
+				"photoUrl": "https://purewows3.imgix.net/images/articles/2021_02/types-of-oranges_blood-orange.jpg?auto=format,compress&cs=strip"
+			},
+			{
+				"name": "Tangerine",
+				"color": {
+					"name": "Reddish-orange",
+					"hex": ["#F15416"],
+					"rgb": ["rgb(241, 84, 22)"]
+				},
+				"features": "Snacky, small, sweet and easy to peel",
+				"photoUrl": "https://guardian.ng/wp-content/uploads/2018/12/Tangerine-Photo-Pixabay.jpg"
+			},
+			{
+				"name": "Clementines",
+				"color": {
+					"name": "Pale orange",
+					"hex": ["#C95E15"],
+					"rgb": ["rgb(201, 94, 21)"]
+				},
+				"features": "Seedless, honey-like sweetness with low acidity",
+				"photoUrl": "https://www.collinsdictionary.com/images/full/clementine_342958907.jpg"
+			},
+			{
+				"name": "Tangelos",
+				"color": {
+					"name": "Bright orange",
+					"hex": ["#EE6B02"],
+					"rgb": ["rgb(238, 107, 2)"]
+				},
+				"features": "Tight and difficult to peel, but sweet and juicy inside",
+				"photoUrl": "https://media.istockphoto.com/photos/isolated-tangelo-citrus-fruit-picture-id694953200?k=20&m=694953200&s=612x612&w=0&h=M_2cj47znWs94dvCaQImbYcTWX_YYdfUBmg2ffXOg9s="
+			}
+		],
+		"foodClass": {
+			"main": "Vitamins",
+			"others": ["Carbohydrates", "Minerals"]
+		},
+		"nutrition": [
+			"60 Calories",
+			"0.16 grams Fat",
+			"No Sodium",
+			"3 grams of Fiber",
+			"12 grams of Sugar",
+			"1 gram of Protein",
+			"14 micrograms of Vitamin A",
+			"70 milligrams of Vitamin C",
+			"6% of Daily Recommended Amount of Calcium",
+			"237 milligrams of Potassium",
+			"15.4 grams of Carbohydrates"
+		],
+		"benefits": [
+			"Protects your cells from damage",
+			"Helps your body make collagen, a protein that heals wounds and gives you smoother skin",
+			"Fight against inflammation",
+			"Improves and protects the brain from damage"
+		],
+		"scientificClass": {
+			"kingdom": "Plantae",
+			"division": "Magnoliophyta",
+			"class": "Magnoliopsida",
+			"subclass": "Rosidae",
+			"order": "Sapindales",
+			"family": "Rutaceae",
+			"subfamily": null,
+			"genus": "Citrus",
+			"species": "Sinensis"
+		},
+		"botanicalName": "Citrus sinensis",
+		"personalComments": "More orange fruit intake is quite better than the refined orange juice",
+		"funFact": "More oranges are killed by lightning than by plant diseases"
+	},
+	{
+		"id": 3,
+		"name": "Mango",
+		"photoUrl": "https://media.istockphoto.com/photos/mango-on-a-white-background-picture-id186018991?k=20&m=186018991&s=612x612&w=0&h=iUmXyoajsZAEaJEk52-coOMWqrryxcH83wAo4YeI3cA=",
+		"rating": "71.7%",
+		"commonArea": "India",
+		"averageWeight": 0.15,
+		"averageWeightUnit": "kg",
+		"texture": "Soft/Pulpy/Fibrous",
+		"taste": "Sweet, Citrus, Tropical flavor",
+		"averageSize": {
+			"horizontal": 3.5,
+			"vertical": 4.3
+		},
+		"averageSizeUnit": "in",
+		"type": "Drupe",
+		"commonColor": "Red",
+		"varieties": [
+			{
+				"name": "Tommy Atkins Mango",
+				"color": {
+					"name": "Magenta-pink",
+					"hex": ["#8F6188", "#EA7A9E"],
+					"rgb": ["rgb(143, 97, 136)", "rgb(234, 122, 158)"]
+				},
+				"features": "Valued for its very long shelf life and tolerance of handling and transportation with little or no bruising or degradation",
+				"photoUrl": "https://i.pinimg.com/736x/13/b1/07/13b1074a22ddeb21dcbca8caad59f0be.jpg"
+			},
+			{
+				"name": "Rainbow Mango",
+				"color": {
+					"name": "Golden-yellow",
+					"hex": ["#FFCD00", "#D83902", "#BAB42D"],
+					"rgb": ["rgb(255, 205, 0)", "rgb(216, 57, 2)", "rgb(186, 180, 45)"]
+				},
+				"features": "Elongated and oblong with a subtle curve at one end that is a blushing red in color when ripe",
+				"photoUrl": "https://thumbs.dreamstime.com/b/mahachanok-rainbow-mango-fruit-thailand-mahachanok-rainbow-mango-fruit-thailand-another-mango-fruit-delicious-thailand-118687365.jpg"
+			},
+			{
+				"name": "Fazli Mango",
+				"color": {
+					"name": "Green",
+					"hex": ["#79AE9A"],
+					"rgb": ["rgb(121, 174, 154)"]
+				},
+				"features": "Fazli is known for its comparatively larger fruits than other mango varieties weighing about 1kg with lots of pulp",
+				"photoUrl": "https://prod-media-eng.dhakatribune.com/uploads/2019/07/rajshahi-mango-pic-copy-1562866265976.jpg"
+			},
+			{
+				"name": "Miyazaki Mango",
+				"color": {
+					"name": "Fiery red",
+					"hex": ["#DB0A15"],
+					"rgb": ["rgb(219, 10, 21)"]
+				},
+				"features": "The world's costliest mango, worth over $50",
+				"photoUrl": "https://5.imimg.com/data5/ANDROID/Default/2021/6/MM/ZS/ZX/62199709/product-jpeg-500x500.jpg"
+			}
+		],
+		"foodClass": {
+			"main": "Vitamins",
+			"others": ["Minerals", "Carbohydrates"]
+		},
+		"nutrition": [
+			"107 Calories",
+			"3 grams of Fiber",
+			"24 grams of Sugar",
+			"1 gram of Protein",
+			"25% of Daily Value of Vitamin A",
+			"76% of Daily Value of Vitamin C",
+			"257 milligrams of Potassium",
+			"0.2 milligrams of Vitamin B-6"
+		],
+		"benefits": [
+			"It boosts the health of your bones",
+			"May help prevent diabetes",
+			"High in healthy plant compounds",
+			"May improve digestive health"
+		],
+		"scientificClass": {
+			"kingdom": "Plantae",
+			"division": "Magnoliophyta",
+			"class": "Magnoliopsida",
+			"subclass": null,
+			"order": "Sapindales",
+			"family": "Anacardiaceae",
+			"subfamily": null,
+			"genus": "Mangifera",
+			"species": "Indica"
+		},
+		"botanicalName": "Mangifera indica",
+		"personalComments": "Mangoes have a pretty weird name, Man-goes",
+		"funFact": "The world's heaviest mango was longer than a ruler"
+	},
+	{
+		"id": 4,
+		"name": "Banana",
+		"photoUrl": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/12/bananas.jpg?quality=82&strip=all",
+		"rating": "72.0%",
+		"commonArea": "India",
+		"averageWeight": 0.12,
+		"averageWeightUnit": "kg",
+		"texture": "Mealy/Slightly astringent",
+		"taste": "Sweet, Floral flavor, Slightly sour",
+		"averageSize": {
+			"horizontal": 1.37,
+			"vertical": 7.21
+		},
+		"averageSizeUnit": "in",
+		"type": "Berry",
+		"commonColor": "Yellowish-green",
+		"varieties": [
+			{
+				"name": "Cavendish Banana",
+				"color": {
+					"name": "Dark yellow",
+					"hex": ["#FDCF4C"],
+					"rgb": ["rgb(253, 207, 76)"]
+				},
+				"features": "The most common variety, easily available",
+				"photoUrl": "https://images.wisegeek.com/slideshow-mobile-small/bunch-of-bananas.jpg"
+			},
+			{
+				"name": "Lady Finger Banana",
+				"color": {
+					"name": "Bright yellow",
+					"hex": ["#FCDF80"],
+					"rgb": ["rgb(252, 223, 128)"]
+				},
+				"features": "Cigar-shaped with creamy flesh",
+				"photoUrl": "https://cdn.agronomag.com/wp-content/uploads/2020/03/lady-finger-bananas.jpg"
+			},
+			{
+				"name": "Blue Java Banana",
+				"color": {
+					"name": "Silver-blue",
+					"hex": ["#A8C3D1"],
+					"rgb": ["rgb(168, 195, 209)"]
+				},
+				"features": "Possess a vanilla ice-cream like flavor",
+				"photoUrl": "https://m.media-amazon.com/images/I/61CG2EVkQOL._AC_SX466_.jpg"
+			},
+			{
+				"name": "Red Banana",
+				"color": {
+					"name": "Red-purple",
+					"hex": ["#F62D40"],
+					"rgb": ["rgb(246, 45, 64)"]
+				},
+				"features": "Some of the fruits have a slight raspberry taste, and others have an earthy flavor",
+				"photoUrl": "https://m.media-amazon.com/images/I/61g4r0vLYdL._SX466_.jpg"
+			}
+		],
+		"foodClass": {
+			"main": "Protein",
+			"others": ["Carbohydrates"]
+		},
+		"nutrition": [
+			"89 Calories",
+			"75% Water",
+			"1.1 grams Protein",
+			"22.8 grams Carbs",
+			"12.2 grams Sugar",
+			"2.6 grams Fiber",
+			"0.3 grams Fat"
+		],
+		"benefits": [
+			"Rich in nutrients",
+			"May improve blood sugar levels",
+			"May support digestive health",
+			"May aid weight loss",
+			"May help you feel fuller",
+			"May improve insulin sensitivity when unripe"
+		],
+		"scientificClass": {
+			"kingdom": "Plantae",
+			"division": "Magnoliophyta",
+			"class": "Liliopsida",
+			"subclass": null,
+			"order": "Zingiberales",
+			"family": "Musaceae",
+			"subfamily": null,
+			"genus": "Musa",
+			"species": "Indica"
+		},
+		"botanicalName": "Musa indica",
+		"personalComments": "After Bananas there're no others",
+		"funFact": "The latin meaning of 'Banana' is 'Fruit of the wise men' (uh oh! thought it was a monkey's fruit?)"
+	},
+	{
+		"id": 5,
+		"name": "Watermelon",
+		"photoUrl": "https://img.onmanorama.com/content/dam/mm/en/food/features/images/2021/2/27/watermelon-seeds.jpg.transform/schema-16x9/image.jpg",
+		"rating": "67.1%",
+		"commonArea": "China",
+		"averageWeight": 10.21,
+		"averageWeightUnit": "kg",
+		"texture": "Crumbly/Subtly crunchy",
+		"taste": "Fresh, Green and Fruity with Cucumber notes",
+		"averageSize": {
+			"horizontal": 10,
+			"vertical": 16
+		},
+		"averageSizeUnit": "in",
+		"type": "Berry",
+		"commonColor": "Striped green",
+		"varieties": [
+			{
+				"name": "Bradford Watermelon",
+				"color": {
+					"name": "darkgreen",
+					"hex": ["#588D56"],
+					"rgb": ["rgb(88, 141, 86)"]
+				},
+				"features": "Cylindrical in shape",
+				"photoUrl": "https://2.bp.blogspot.com/-0xGcw92kCi0/VgrHoVjd9EI/AAAAAAAAH7c/vXkPfeE5eCM/w1200-h630-p-k-no-nu/bradford%2Bwatermelon3.jpg"
+			},
+			{
+				"name": "Sugar Baby Watermelon",
+				"color": {
+					"name": "darkgreen",
+					"hex": ["#080E04"],
+					"rgb": ["rgb(8, 14, 4)"]
+				},
+				"features": "Round in shape",
+				"photoUrl": "https://www.seeds-gallery.eu/1317-large_default/sugar-baby-watermelon-seeds.jpg"
+			},
+			{
+				"name": "Jubilee Bush Watermelon",
+				"color": {
+					"name": "Striped green",
+					"hex": ["#95B138", "#243F1C"],
+					"rgb": ["rgb(149, 177, 56)", "rgb(36, 63, 28)"]
+				},
+				"features": "Oval-shaped, bright red-fleshed melons that are super sweet, easy to grow in the backyard",
+				"photoUrl": "https://www.australianseed.com/persistent/catalogue_images/products/watermelon_bush_jubilee.jpg"
+			},
+			{
+				"name": "Charleston Grey Watermelon",
+				"color": {
+					"name": "gray-green",
+					"hex": ["#D5DAC6"],
+					"rgb": ["rgb(213, 218, 198)"]
+				},
+				"features": "Fiberless flesh and a tough, medium-thick gray-green rind often used for making watermelon rind pickles",
+				"photoUrl": "https://cdn11.bigcommerce.com/s-gy72hzfnd6/images/stencil/1280x1280/products/126/784/seedcatalogcom-charleston-grey-watermelon-seeds__59392.1618372157.jpg?c=1"
+			}
+		],
+		"foodClass": {
+			"main": "Vitamins",
+			"others": ["Carbohydrates", "Water"]
+		},
+		"nutrition": [
+			"46 Calories",
+			"91% Water",
+			"0.6 grams Protein",
+			"7.6 grams Carbs",
+			"6.2 grams Sugar",
+			"0.4 grams Fiber",
+			"0.2 grams Fat"
+		],
+		"benefits": [
+			"Boosts Hydration",
+			"Reduces Blood Pressure",
+			"Lowers Cholesterol and Fights Inflammation",
+			"Relieve muscle soreness",
+			"Asthma prevention"
+		],
+		"scientificClass": {
+			"kingdom": "Plantae",
+			"division": "Magnoliophyta",
+			"class": "Magnoliopsida",
+			"subclass": null,
+			"order": "Cucurbitales",
+			"family": "Cucurbitaceae",
+			"subfamily": null,
+			"genus": "Citrullus",
+			"species": "Lanatus"
+		},
+		"botanicalName": "Citrullus lanatus",
+		"personalComments": "Water melons are too seedful",
+		"funFact": "The Japanese grow square (cube-like) watermelons"
+	}
+]
